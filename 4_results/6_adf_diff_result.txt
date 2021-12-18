@@ -1,0 +1,15 @@
+--------------------------------------------------
+ADF Results:
+
+Nonseasonal differences needed for stationarity: 0
+
+Variable: IPCA MONTHLY PERCENTAGE
+ADF Test: -4.500270
+P-value: 0.001508
+Lags: 0
+Observations: 81
+Critical values:
+  1%: -4.075122
+  5%: -3.466155
+  10%: -3.159611
+--------------------------------------------------

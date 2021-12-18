@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: Ipca Monthly Percentage (level)
+Mean: 0.48
+Median: 0.39
+Sample std: 0.40
+Variance: 0.16
+Lowest: -0.38
+Highest: 1.35
+--------------------------------------------------

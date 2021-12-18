@@ -1,0 +1,24 @@
+                                  SARIMAX Results                                  
+===================================================================================
+Dep. Variable:     ipca_monthly_percentage   No. Observations:                   82
+Model:                      ARIMA(1, 0, 0)   Log Likelihood                 -25.344
+Date:                     Sat, 18 Dec 2021   AIC                             56.688
+Time:                             18:41:09   BIC                             63.908
+Sample:                         01-01-2015   HQIC                            59.587
+                              - 10-01-2021                                         
+Covariance Type:                       opg                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.5086      0.089      5.691      0.000       0.333       0.684
+ar.L1          0.5964      0.088      6.749      0.000       0.423       0.770
+sigma2         0.1081      0.018      5.844      0.000       0.072       0.144
+===================================================================================
+Ljung-Box (L1) (Q):                   0.53   Jarque-Bera (JB):                 0.22
+Prob(Q):                              0.47   Prob(JB):                         0.89
+Heteroskedasticity (H):               2.29   Skew:                            -0.04
+Prob(H) (two-sided):                  0.04   Kurtosis:                         2.76
+===================================================================================
+
+Warnings:
+[1] Covariance matrix calculated using the outer product of gradients (complex-step).
